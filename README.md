@@ -62,5 +62,3 @@ With real data, this framework helps identify where to optimize game design, use
 This structure is designed for demonstration of advanced game analytics for portfolios or interviews.
 
 ---
-## 📂 Repository Structure
-
